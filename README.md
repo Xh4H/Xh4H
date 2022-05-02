@@ -9,7 +9,7 @@ I am glad you landed in my profile, let me tell you real quick who I am and what
 - 😄 Juan 'Xh4H' Jiménez, 23
 - 🔭 Manager Information Security at [adidas](https://www.adidas.es/)
 - 🌎 Cybersecurity researcher & CTF Player
-- 🌱 Always open to learning new technologies.
+- 🌱 Always open to learn new technologies.
 - 📫 How to reach me: [Twitter](https://twitter.com/RiftWhiteHat)
 
 Have a good day 😃
