@@ -7,7 +7,7 @@
 I am glad you landed in my profile, let me tell you real quick who I am and what I do.
 
 - 😄 Juan 'Xh4H' Jiménez, 26
-- 🔐 Application Security Engineer at [fortris](https://fortris.com/)
+- 🔐 Cofounder and CTO at an AI Startup - Stealth mode.
 - 🔭 Former Information Security Manager at [adidas](https://www.adidas.es/)
 - 🌎 Cybersecurity researcher & CTF Player
 - 🌱 Always open to learn new technologies.
